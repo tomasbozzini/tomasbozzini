@@ -7,7 +7,10 @@ Me interesa el desarrollo de software aplicado, la automatización y las herrami
 ## 🛠 Tecnologías
 
 **Lenguajes**
-Python · SQL
+Python · C++ · Java · JavaScript · SQL
+
+**Frontend**
+HTML · CSS · Astro
 
 **Bases de datos & backend**
 PostgreSQL · Supabase · SQLAlchemy
