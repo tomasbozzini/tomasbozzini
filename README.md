@@ -19,7 +19,7 @@ PostgreSQL · Supabase · SQLAlchemy
 VS Code · Jupyter · Git · PyInstaller
 
 **IA & APIs**
-Anthropic API · Claude API · MCP · Groq API · LLMs
+Anthropic API · Claude API · MCP · Groq API · Google Gemini API ·LLMs
 
 ## 📫 Contacto
 [LinkedIn](www.linkedin.com/in/tomas-pablo-bozzini-0a8182299) · [Email](mailto:tomasbozzini76@gmail.com)
